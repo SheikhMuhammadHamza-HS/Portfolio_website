@@ -27,10 +27,9 @@ const Hero = () => {
             </h1>
             <div className="w-[100px] h-[2px] bg-blue-700 mb-4"></div>
             <p className="mb-8 leading-relaxed text-white text-xl">
-              Copper mug try-hard pitchfork pour-over freegan heirloom neutra
-              air plant cold-pressed tacos poke beard tote bag. Heirloom echo
-              park mlkshk tote bag selvage hot chicken authentic tumeric
-              truffaut hexagon try-hard chambray.
+            I specialize in creating modern, responsive, and user-friendly websites using the latest web technologies like React.js, Next.js, and Tailwind CSS.
+
+           With a keen eye for design and a focus on performance & accessibility, I build sleek web applications that enhance user experience.
             </p>
             <div className="flex justify-center">
              <Link href={"#Contact"}>
