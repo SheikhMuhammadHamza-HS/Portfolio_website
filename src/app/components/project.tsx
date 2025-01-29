@@ -38,14 +38,13 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    Dynamic Countries
+                   Atm project
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    Dynamic countries Data fetch
+                  Atm project
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                    each dynamic Countries Data fetch mini project which is
-                    Using the Next js and tailwind css.
+                    build  Atm project using typescript 
                   </p>
                   <Link
                     target="_blank"
@@ -71,14 +70,13 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    Dynamic Countries
+                   Simple Calculator
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Dynamic countries Data fetch
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                    each dynamic Countries Data fetch mini project which is
-                    Using the Next js and tailwind css.
+                  build a simple calculator using typescript
                   </p>
                   <Link
                     target="_blank"
@@ -106,14 +104,13 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    Dynamic Countries
+                   Todo List
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Dynamic countries Data fetch
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                    each dynamic Countries Data fetch mini project which is
-                    Using the Next js and tailwind css.
+                   Todo list project according to our day routine
                   </p>
                   <Link
                     target="_blank"
@@ -139,14 +136,13 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    Dynamic Countries
+                  Currency Converter
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    Dynamic countries Data fetch
+                    Currency Converter
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                    each dynamic Countries Data fetch mini project which is
-                    Using the Next js and tailwind css.
+                  Currency Converter using typescript
                   </p>
                   <Link
                     target="_blank"
@@ -174,14 +170,13 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    Dynamic Countries
+                      TicTacToe Game project
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    Dynamic countries Data fetch
+                  TicTacToe Game project
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                    each dynamic Countries Data fetch mini project which is
-                    Using the Next js and tailwind css.
+                  TicTacToe Game project using html,css and javascript
                   </p>
                   <Link
                     target="_blank"
@@ -207,14 +202,13 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    Dynamic Countries
+                    Blog Website
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    Dynamic countries Data fetch
+                   Blog website
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                    each dynamic Countries Data fetch mini project which is
-                    Using the Next js and tailwind css.
+                  Blog website with using next js and tailwind css
                   </p>
                   <Link
                     target="_blank"
